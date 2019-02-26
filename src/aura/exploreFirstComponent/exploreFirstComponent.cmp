@@ -1,0 +1,15 @@
+<aura:component >
+    
+    
+    
+    <aura:attribute name="message" type="String" default="This is salesforce casts" />
+    In first component - {! v.message }  <br />
+    
+    
+    
+	<c:exploreSecondComponent message="{! v.message }"/>
+    
+    
+    <lightning:button label="" onclick="" />
+    
+</aura:component>

@@ -1,0 +1,7 @@
+<aura:component >
+    
+    <aura:attribute name="message" type="String" />
+    
+    In fifth component - {! v.message }<br />
+	<div>Hello World!!</div>
+</aura:component>
