@@ -1,0 +1,14 @@
+<aura:component implements="force:appHostable" >
+    
+    <aura:attribute name="labelOfButton" type="String" default="Save" />
+    
+    <aura:attribute name="accounts" type="String" />
+    <aura:attribute name="greeting" type="String" />
+    
+    <lightning:input type="text" value="{! v.greeting }" />
+    
+    <lightning:button aura:id="cstButton" label="{! v.labelOfButton }" onclick="{! c.getAllAccountRecords }" />
+    
+    {! v.accounts }
+    
+</aura:component>
