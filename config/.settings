@@ -1,0 +1,18 @@
+{
+    "projectName": "vodafone-lex",
+    "username": "teja_8@salesforcecasts.com",
+    "id": "46131a20-3998-11e9-b848-2b7734adc2ad",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://teja-8-dev-ed.my.salesforce.com",
+    "workspace": "/Users/KrishnaTeja/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "StaticResource"
+    ]
+}
