@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>URLShortnerController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>broadcasterPage</members>
         <members>receiveBroadcast</members>
         <name>ApexPage</name>
     </types>
     <types>
+        <members>URLShortner</members>
+        <members>URLShortnerApp</members>
         <members>exploreChildComponent</members>
         <members>exploreComponentEvent</members>
         <members>exploreComponentEvents</members>
