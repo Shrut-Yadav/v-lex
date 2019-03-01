@@ -7,7 +7,10 @@
                 return;
             }
             
-            component.set( 'v.finalmessage',event.data );
+            
+            console.log(' 💥 ' + event.data.message);
+            
+            component.set( 'v.finalmessage',event.data.message.address );
             console.log(component.get('v.finalmessage'));
         }, false);
     }

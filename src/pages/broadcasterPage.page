@@ -13,7 +13,18 @@
     	var destination = 'https://teja-8-dev-ed.lightning.force.com';
         function sendDataToComponent(){
             var message = document.getElementById("message").value;
-        	parent.postMessage(message, destination);
+            
+            var completeData = {
+            	'message': message,
+                'name': 'Krishna',
+                'city': 'Hyd',
+                'address': {
+                	'address1': 'abhkdbdhskbads',
+                    'address2': 'dhbhdbfbdhbfd'
+                }
+            }
+            
+        	parent.postMessage(completeData, destination);
         }
     </script>
 </apex:page>

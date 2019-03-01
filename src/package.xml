@@ -16,6 +16,7 @@
         <members>exploreChildComponent</members>
         <members>exploreComponentEvent</members>
         <members>exploreComponentEvents</members>
+        <members>exploreCustomApplicationEvents</members>
         <members>exploreDOMModifications</members>
         <members>exploreDataFlow</members>
         <members>exploreDebugger</members>
