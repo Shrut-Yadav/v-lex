@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>URLShortnerController</members>
+        <members>customDataTablesController</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -14,6 +15,8 @@
         <members>URLShortnerApp</members>
         <members>aEvent</members>
         <members>actionHandleRecordChanges</members>
+        <members>customDataTable</members>
+        <members>customDataTableRow</members>
         <members>exploreChildComponent</members>
         <members>exploreComponentEvent</members>
         <members>exploreComponentEvents</members>
