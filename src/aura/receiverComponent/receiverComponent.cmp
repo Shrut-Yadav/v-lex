@@ -1,0 +1,8 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    <aura:attribute name="finalmessage" type="String" />
+    <aura:attribute name="baseDomain" type="String" default="teja-8-dev-ed--c.visualforce.com"/>
+    {! v.finalmessage }
+    <iframe aura:id="vframe" src="{! 'https://' + v.baseDomain + '/apex/broadcasterPage' }" frameborder="0"/>
+</aura:component>

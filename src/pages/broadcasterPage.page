@@ -1,0 +1,19 @@
+<apex:page >
+    
+    
+    <apex:slds />
+    <input id="message" type="text" />
+    <button onclick="sendDataToComponent()" class="slds-button slds-button_brand">
+        Send to Component
+    </button>
+    
+    
+    <script>
+    
+    	var destination = 'https://teja-8-dev-ed.lightning.force.com';
+        function sendDataToComponent(){
+            var message = document.getElementById("message").value;
+        	parent.postMessage(message, destination);
+        }
+    </script>
+</apex:page>
