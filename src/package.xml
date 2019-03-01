@@ -13,6 +13,7 @@
         <members>URLShortner</members>
         <members>URLShortnerApp</members>
         <members>aEvent</members>
+        <members>actionHandleRecordChanges</members>
         <members>exploreChildComponent</members>
         <members>exploreComponentEvent</members>
         <members>exploreComponentEvents</members>
@@ -26,11 +27,13 @@
         <members>exploreFifthComponent</members>
         <members>exploreFirstComponent</members>
         <members>exploreFourthComponent</members>
+        <members>exploreGetNewRecordLDS</members>
         <members>exploreParentComponent</members>
         <members>exploreSecondComponent</members>
         <members>exploreThirdComponent</members>
         <members>receiverComponent</members>
         <members>sendDataFromC</members>
+        <members>understandLDS</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <version>36.0</version>

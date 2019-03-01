@@ -27,6 +27,20 @@
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
     },
+    "understandLDS/understandLDSController.js.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-03-01T16:26:58.000Z",
+        "fileName": "unpackaged/aura/understandLDS/understandLDSController.js",
+        "fullName": "understandLDS/understandLDSController.js",
+        "id": "0Ad0o000000axH0CAI",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-03-01T16:27:31.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
     "receiverComponent/receiverComponent.cmp.undefined": {
         "createdById": "0050o00000USTLuAAP",
         "createdByName": "Krishna Teja Karnam",
@@ -65,6 +79,20 @@
         "lastModifiedById": "0050o00000USTLuAAP",
         "lastModifiedByName": "Krishna Teja Karnam",
         "lastModifiedDate": "2019-02-27T10:55:50.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "actionHandleRecordChanges/actionHandleRecordChanges.cmp.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-03-01T16:29:48.000Z",
+        "fileName": "unpackaged/aura/actionHandleRecordChanges/actionHandleRecordChanges.cmp",
+        "fullName": "actionHandleRecordChanges/actionHandleRecordChanges.cmp",
+        "id": "0Ad0o000000axH5CAI",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-03-01T16:30:08.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -191,6 +219,20 @@
         "lastModifiedById": "0050o00000USTLuAAP",
         "lastModifiedByName": "Krishna Teja Karnam",
         "lastModifiedDate": "2019-03-01T04:51:42.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "understandLDS/understandLDS.cmp.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-03-01T16:26:43.000Z",
+        "fileName": "unpackaged/aura/understandLDS/understandLDS.cmp",
+        "fullName": "understandLDS/understandLDS.cmp",
+        "id": "0Ad0o000000axGqCAI",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-03-01T16:27:33.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -363,6 +405,20 @@
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
     },
+    "actionHandleRecordChanges/actionHandleRecordChangesController.js.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-03-01T16:29:57.000Z",
+        "fileName": "unpackaged/aura/actionHandleRecordChanges/actionHandleRecordChangesController.js",
+        "fullName": "actionHandleRecordChanges/actionHandleRecordChangesController.js",
+        "id": "0Ad0o000000axHACAY",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-03-01T16:30:06.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
     "exploreEventsReceive/exploreEventsReceiveController.js.undefined": {
         "createdById": "0050o00000USTLuAAP",
         "createdByName": "Krishna Teja Karnam",
@@ -387,6 +443,20 @@
         "lastModifiedById": "0050o00000USTLuAAP",
         "lastModifiedByName": "Krishna Teja Karnam",
         "lastModifiedDate": "2019-02-22T03:50:10.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "exploreGetNewRecordLDS/exploreGetNewRecordLDS.cmp.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-03-01T16:25:12.000Z",
+        "fileName": "unpackaged/aura/exploreGetNewRecordLDS/exploreGetNewRecordLDS.cmp",
+        "fullName": "exploreGetNewRecordLDS/exploreGetNewRecordLDS.cmp",
+        "id": "0Ad0o000000axGgCAI",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-03-01T16:25:39.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -443,6 +513,20 @@
         "lastModifiedById": "0050o00000USTLuAAP",
         "lastModifiedByName": "Krishna Teja Karnam",
         "lastModifiedDate": "2019-03-01T04:01:29.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "exploreGetNewRecordLDS/exploreGetNewRecordLDSController.js.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-03-01T16:25:30.000Z",
+        "fileName": "unpackaged/aura/exploreGetNewRecordLDS/exploreGetNewRecordLDSController.js",
+        "fullName": "exploreGetNewRecordLDS/exploreGetNewRecordLDSController.js",
+        "id": "0Ad0o000000axGlCAI",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-03-01T16:25:36.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
