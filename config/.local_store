@@ -1,4 +1,18 @@
 {
+    "exploreParentComponent/exploreParentComponent.cmp.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-02-09T02:36:53.000Z",
+        "fileName": "unpackaged/aura/exploreParentComponent/exploreParentComponent.cmp",
+        "fullName": "exploreParentComponent/exploreParentComponent.cmp",
+        "id": "0Ad0o000000eN3mCAE",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-02-20T10:57:51.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
     "exploreFourthComponent/exploreFourthComponent.cmp.undefined": {
         "createdById": "0050o00000USTLuAAP",
         "createdByName": "Krishna Teja Karnam",
@@ -13,6 +27,20 @@
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
     },
+    "exploreComponentEvents/exploreComponentEvents.app.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-02-09T02:36:20.000Z",
+        "fileName": "unpackaged/aura/exploreComponentEvents/exploreComponentEvents.app",
+        "fullName": "exploreComponentEvents/exploreComponentEvents.app",
+        "id": "0Ad0o000000eN3hCAE",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-02-09T02:52:21.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
     "exploreDebugger/exploreDebugger.cmp.undefined": {
         "createdById": "0050o00000USTLuAAP",
         "createdByName": "Krishna Teja Karnam",
@@ -22,7 +50,7 @@
         "id": "0Ad0o000000aiROCAY",
         "lastModifiedById": "0050o00000USTLuAAP",
         "lastModifiedByName": "Krishna Teja Karnam",
-        "lastModifiedDate": "2019-02-26T07:19:25.000Z",
+        "lastModifiedDate": "2019-02-27T10:55:50.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -83,6 +111,34 @@
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
     },
+    "exploreComponentEvent/exploreComponentEvent.evt.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-02-09T02:41:14.000Z",
+        "fileName": "unpackaged/aura/exploreComponentEvent/exploreComponentEvent.evt",
+        "fullName": "exploreComponentEvent/exploreComponentEvent.evt",
+        "id": "0Ad0o000000eN46CAE",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-02-09T02:55:59.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "exploreChildComponent/exploreChildComponent.cmp.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-02-09T02:38:03.000Z",
+        "fileName": "unpackaged/aura/exploreChildComponent/exploreChildComponent.cmp",
+        "fullName": "exploreChildComponent/exploreChildComponent.cmp",
+        "id": "0Ad0o000000eN41CAE",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-02-20T10:58:01.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
     "exploreDOMModifications/exploreDOMModifications.cmp.undefined": {
         "createdById": "0050o00000USTLuAAP",
         "createdByName": "Krishna Teja Karnam",
@@ -92,7 +148,7 @@
         "id": "0Ad0o000000amUuCAI",
         "lastModifiedById": "0050o00000USTLuAAP",
         "lastModifiedByName": "Krishna Teja Karnam",
-        "lastModifiedDate": "2019-02-26T07:41:27.000Z",
+        "lastModifiedDate": "2019-02-28T09:34:09.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -111,20 +167,6 @@
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
     },
-    "exploreDebuggerApp/exploreDebuggerApp.app.undefined": {
-        "createdById": "0050o00000USTLuAAP",
-        "createdByName": "Krishna Teja Karnam",
-        "createdDate": "2019-02-25T06:25:30.000Z",
-        "fileName": "unpackaged/aura/exploreDebuggerApp/exploreDebuggerApp.app",
-        "fullName": "exploreDebuggerApp/exploreDebuggerApp.app",
-        "id": "0Ad0o000000aiRTCAY",
-        "lastModifiedById": "0050o00000USTLuAAP",
-        "lastModifiedByName": "Krishna Teja Karnam",
-        "lastModifiedDate": "2019-02-25T06:34:35.000Z",
-        "manageableState": "unmanaged",
-        "type": "AuraDefinitionBundle",
-        "mmState": "clean"
-    },
     "exploreDOMModifications/exploreDOMModificationsController.js.undefined": {
         "createdById": "0050o00000USTLuAAP",
         "createdByName": "Krishna Teja Karnam",
@@ -139,6 +181,20 @@
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
     },
+    "exploreDebuggerApp/exploreDebuggerApp.app.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-02-25T06:25:30.000Z",
+        "fileName": "unpackaged/aura/exploreDebuggerApp/exploreDebuggerApp.app",
+        "fullName": "exploreDebuggerApp/exploreDebuggerApp.app",
+        "id": "0Ad0o000000aiRTCAY",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-02-25T06:34:35.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
     "exploreDOMModifications/exploreDOMModificationsRenderer.js.undefined": {
         "createdById": "0050o00000USTLuAAP",
         "createdByName": "Krishna Teja Karnam",
@@ -148,7 +204,7 @@
         "id": "0Ad0o000000amUzCAI",
         "lastModifiedById": "0050o00000USTLuAAP",
         "lastModifiedByName": "Krishna Teja Karnam",
-        "lastModifiedDate": "2019-02-26T07:41:24.000Z",
+        "lastModifiedDate": "2019-02-28T09:30:36.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
@@ -167,6 +223,20 @@
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
     },
+    "exploreParentComponent/exploreParentComponentController.js.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-02-09T02:48:55.000Z",
+        "fileName": "unpackaged/aura/exploreParentComponent/exploreParentComponentController.js",
+        "fullName": "exploreParentComponent/exploreParentComponentController.js",
+        "id": "0Ad0o000000eN6cCAE",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-02-09T03:01:16.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
     "exploreFirstComponent/exploreFirstComponent.cmp.undefined": {
         "createdById": "0050o00000USTLuAAP",
         "createdByName": "Krishna Teja Karnam",
@@ -177,6 +247,20 @@
         "lastModifiedById": "0050o00000USTLuAAP",
         "lastModifiedByName": "Krishna Teja Karnam",
         "lastModifiedDate": "2019-02-22T04:00:58.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "exploreChildComponent/exploreChildComponentController.js.undefined": {
+        "createdById": "0050o00000USTLuAAP",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-02-09T02:45:14.000Z",
+        "fileName": "unpackaged/aura/exploreChildComponent/exploreChildComponentController.js",
+        "fullName": "exploreChildComponent/exploreChildComponentController.js",
+        "id": "0Ad0o000000eN4BCAU",
+        "lastModifiedById": "0050o00000USTLuAAP",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-02-09T02:59:38.000Z",
         "manageableState": "unmanaged",
         "type": "AuraDefinitionBundle",
         "mmState": "clean"
