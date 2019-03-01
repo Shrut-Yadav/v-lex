@@ -1,0 +1,12 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    
+    <aura:attribute name="message" type="String" />
+    <aura:attribute name="baseDomain" type="String" default="teja-8-dev-ed--c.visualforce.com"/>
+    
+    <lightning:input type="text" value="{! v.message }" />
+    
+    <lightning:button label="Send Data to VF pages" onclick="{! c.handleSendData }" />
+    
+    <iframe aura:id="vframe" src="{! 'https://' + v.baseDomain + '/apex/receiveBroadcast' }" frameborder="0"/>
+    
+</aura:component>

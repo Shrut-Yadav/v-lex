@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>receiveBroadcast</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
         <members>exploreChildComponent</members>
         <members>exploreComponentEvent</members>
         <members>exploreComponentEvents</members>
@@ -14,6 +18,7 @@
         <members>exploreParentComponent</members>
         <members>exploreSecondComponent</members>
         <members>exploreThirdComponent</members>
+        <members>sendDataFromC</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <version>36.0</version>
