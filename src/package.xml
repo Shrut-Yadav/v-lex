@@ -12,6 +12,7 @@
     <types>
         <members>URLShortner</members>
         <members>URLShortnerApp</members>
+        <members>aEvent</members>
         <members>exploreChildComponent</members>
         <members>exploreComponentEvent</members>
         <members>exploreComponentEvents</members>
@@ -19,6 +20,8 @@
         <members>exploreDataFlow</members>
         <members>exploreDebugger</members>
         <members>exploreDebuggerApp</members>
+        <members>exploreEventsReceive</members>
+        <members>exploreEventsSend</members>
         <members>exploreFifthComponent</members>
         <members>exploreFirstComponent</members>
         <members>exploreFourthComponent</members>
