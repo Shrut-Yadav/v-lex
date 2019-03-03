@@ -1,0 +1,9 @@
+<aura:documentation>
+	<aura:description>
+        <code>c:CircularProgress</code> component can be used to display progress in circular bar format. Please dont forget to give the sObjectApiName
+    </aura:description>
+     
+	<aura:example name="Example1" label="Examples of Circular Progress Component" 
+                  ref="c:CircularProgressExample"> 
+	</aura:example>
+</aura:documentation>

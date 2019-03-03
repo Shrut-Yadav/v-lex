@@ -6,7 +6,8 @@
     <aura:attribute name="error" type="String" />
     
     <force:recordData aura:id="record"
-                      recordId="{!v.recordId}"
+                     
+                      mode="EDIT"
                       layoutType="FULL"
                       targetRecord="{!v.targetRec}"
                       targetError="{!v.error}"/>
@@ -15,16 +16,13 @@
         <lightning:card iconName="standard:lead" title="{!v.targetRec.fields.Name.value}">
             <div class="slds-p-horizontal--small">
                 
-                <lightning:formattedText value="{!v.targetRec.fields.Name.value}" /> 
-                <lightning:formattedText value="{!v.targetRec.fields.AccountName.value}" />
-                <lightning:formattedText value="{!v.targetRec.fields.LeadSource.value}" /> <br />  
+                <lightning:input value="{!v.targetRec.fields.Name.value}" /> 
+                <lightning:input value="{!v.targetRec.fields.Title.value}" />
+                <lightning:input value="{!v.targetRec.fields.LeadSource.value}" /> <br />  
                 
                 <lightning:button label="save" onclick="{! c.handleSave }"/>
                 
-            </div>
-            
-            
-            
+            </div> 
         </lightning:card>
     </div>
     

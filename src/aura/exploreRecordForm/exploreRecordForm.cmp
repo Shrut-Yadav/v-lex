@@ -1,0 +1,14 @@
+<aura:component implements="force:appHostable,force:hasRecordId" access="global" >
+    
+    <div class="adjustForm">
+        
+     <lightning:recordForm
+         objectApiName="Account"
+		 recordId="0010o00002ByySuAAJ"
+         fields="Name, Rating, Type"
+         columns="2"
+         mode="edit"
+         onsubmit="{!c.handleSubmit}" />
+    
+    </div>
+</aura:component>

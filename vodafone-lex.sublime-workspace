@@ -396,10 +396,10 @@
 	"buffers":
 	[
 		{
-			"file": "src/aura/exploreComponentEvent/exploreComponentEvent.evt",
+			"file": "src/aura/exploreEventsSend/exploreEventsSendController.js",
 			"settings":
 			{
-				"buffer_size": 124,
+				"buffer_size": 226,
 				"line_ending": "Unix"
 			}
 		}
@@ -456,7 +456,8 @@
 		"/Users/KrishnaTeja/Documents/vodafone-lex/config",
 		"/Users/KrishnaTeja/Documents/vodafone-lex/src",
 		"/Users/KrishnaTeja/Documents/vodafone-lex/src/aura",
-		"/Users/KrishnaTeja/Documents/vodafone-lex/src/aura/exploreComponentEvent"
+		"/Users/KrishnaTeja/Documents/vodafone-lex/src/aura/exploreEventsReceive",
+		"/Users/KrishnaTeja/Documents/vodafone-lex/src/aura/exploreEventsSend"
 	],
 	"file_history":
 	[
@@ -627,24 +628,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "src/aura/exploreComponentEvent/exploreComponentEvent.evt",
+					"file": "src/aura/exploreEventsSend/exploreEventsSendController.js",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 124,
+						"buffer_size": 226,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								10,
+								226
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/XML/XML.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -949,7 +950,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 382.0,
+	"side_bar_width": 251.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

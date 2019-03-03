@@ -1,0 +1,5 @@
+<aura:component >
+    <c:CircularProgress theme="blue" size="small" totalProgress="100" actualProgress="65" />    
+    <c:CircularProgress theme="orange" size="medium" totalProgress="100" actualProgress="35" />     
+    <c:CircularProgress theme="green" size="big" totalProgress="90" actualProgress="24" />    
+</aura:component>

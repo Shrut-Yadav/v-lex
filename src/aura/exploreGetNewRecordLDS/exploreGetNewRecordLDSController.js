@@ -19,6 +19,7 @@
 	    
 	},
     
+    
     handleSaveFun: function(component, event, helper){
         var recId = component.get(' v.recordId ');
         component.set("v.simpleNewContact.AccountId", recId);
@@ -26,8 +27,11 @@
         console.log(' 💥 ' + recId);
 		console.log(component.get("v.simpleNewContact.AccountId"));
         
-        component.find("contactRecord").saveRecord(function(saveResult){
-            console.log("Inside of saveRecord");
+        component.find("contactRecord").saveRecord($A.getCallback(function(saveResult){
+            
+            console.log(JSON.stringify(saveResult));
+            
+            
             if(saveResult.state === "SUCCESS" || saveResult.state === "DRAFT"){
                 var resultsToast = $A.get("e.force:showToast");
                 resultsToast.setParams({
@@ -44,7 +48,7 @@
                 console.log("Unknown");
             }
             
-        });
+        }));
         
     }
 })

@@ -5,7 +5,7 @@
         if(evtParams.changeType === "CHANGED"){
             var changedFields = evtParams.changedFields;
             
-            console.log(changedFields);
+            console.log(JSON.stringify(changedFields.Phone.oldValue));
             
             var resultsToast = $A.get("e.force:showToast");
             resultsToast.setParams({
